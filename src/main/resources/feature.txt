@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+Features released in V1.0
 //Updated the code with feature 11 in branch 11
 //Updated the code with feature 13 in branch 13
-=======
 // Adding this text file as a new feature in 12
->>>>>>> refs/heads/feature/12
